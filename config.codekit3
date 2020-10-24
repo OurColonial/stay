@@ -17,6 +17,14 @@
 		"oAP": "/about.html",
 		"oF": 0
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/css/style-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -108,6 +116,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/social.html",
+		"oF": 0
+		},
+	"/Untitled Diagram.drawio": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/Untitled Diagram.drawio",
 		"oF": 0
 		}
 	},
