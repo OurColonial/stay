@@ -1,0 +1,18 @@
+h1,
+h2,
+p {
+    font-family: 'IM Fell English', serif;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+.nav-item {
+    font-family: 'IM Fell English', serif;
+    font-size: 1.1em;
+}
+
+.container {
+    padding-top: 20px;
+}
